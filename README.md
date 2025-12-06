@@ -3,6 +3,11 @@
 This is a template repository 
 for the Quarto reproducible reports using Python
 
+### Report Links
+
+- **GitHub Repository**: [https://github.com/mehmetimga/quarto-python-project](https://github.com/mehmetimga/quarto-python-project)
+- **View Report (HTML)**: [https://mehmetimga.github.io/quarto-python-project/qmd_example.html](https://mehmetimga.github.io/quarto-python-project/qmd_example.html)
+
 ### Dependencies
 
 - [Docker](https://www.docker.com/) 
