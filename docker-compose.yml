@@ -1,11 +1,11 @@
 services:
   # run jupyter notebook inside jupyter 
   jupyter-notebook:
-    image:  mehmetimga/quarto-python-project:latest
+    image:  ttimbers/dsci-522-individual-assignment-quarto-python:92da461
     ports:
       - "8888:8888"
     volumes:
-      - .:/home/mehmet/quarto-python-project
+      - .:/home/jovyan
     deploy:
       resources:
         limits:
